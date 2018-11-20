@@ -4,6 +4,6 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  background-image: imgs/banner1.png;
+  background-image: url(../../imgs/banner1.png) no-repeat center center fixed;
 }
 
