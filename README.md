@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## 2018 Robotics arm contest
 
-You can use the [editor on GitHub](https://github.com/petrukhnov/roboarm2018.makerobots.eu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+TODO
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Rewards
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Rules 
 
-```markdown
-Syntax highlighted code block
+Submission last date 2018-12-27 23:00 UTC
 
-# Header 1
-## Header 2
-### Header 3
+## Submissions
 
-- Bulleted
-- List
+## Details
 
-1. Numbered
-2. List
+Allowed cube sizes:
 
-**Bold** and _Italic_ and `Code` text
+each side: 10-20mm
 
-[Link](url) and ![Image](src)
-```
+E.g. lego 2x2 brick is suitable (16x16x11 mm)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## How to participate
 
-### Jekyll Themes
+1. Print area on A4 (TODO)
+2. Build arm with exactly 2 motors.
+3. Record short video with:
+  a) arm moving pieces 
+  b) video should be recorded with same camera, that will be using during competition
+4. Make at least 3 pictures of arm from different angles
+5. Publish vide and pictures on any website. 
+6. Create pull request with your submission to this page.
+  a) Alternatively, you could send email to .... and we will do that pull request for you.
+7. Wait dayX and participate in live rounds.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/petrukhnov/roboarm2018.makerobots.eu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Contacts
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Join us in discord: TODO
