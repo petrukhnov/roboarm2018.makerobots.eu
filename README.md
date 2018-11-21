@@ -1,10 +1,12 @@
 ## 2018 Robotics arm contest
 
-The goal of 2018 robotic arm contest is to bring robotics closer to people with little or no experience. If you are already pro in that field, feel free to join and compete with others. 
+The goal of 2018 robotic arm contest is to bring robotics closer to people with little or no experience. If you are already skilled in that field, feel free to join and compete with others. 
 
-Lego, vex, fischertechnik, wooden planks, cardboard, tape, your old VHS player and everything else could be used.
+In this contest you will create simple robotic arm that will put decoartions to christmas/new year tree. 
 
-Final round of competition will be held online ~31st of December 2018. Participants will be required to stream online video with their creation.
+Lego, vex, fischertechnik, wooden planks, cardboard, tape, your old VHS player and everything else could be used. You could programm it with arduino, or controll motors directly with poewr. 
+
+Final round of competition will be held online 31st of December 2018. Participants will be required to stream online video with their creation.
 
 
 ## Awards And Prizes
@@ -71,8 +73,23 @@ Updating submission: -0 points.
 
 Submission deadline 2018-12-27 23:00 UTC
 
+ 
+### Play area
 
-### Live match details
+[A4 layout](layout-tree.pdf)
+
+You could use tape to stick printed area to table.
+
+Zones: 
+ - tree top
+ - middle tree
+ - below tree (excluding box)
+ - box
+ - left from tree
+ - right from tree
+ 
+ 
+ ### Live match details
 
 Participants will have to do certain tasks. Tasks will be selected randomly and published in the beginning of the match.
 
@@ -83,23 +100,11 @@ Example of tasks:
  - Middle tree should have at exactly one of each color.
  - Left of the tree should have no more than 2 cubes.
  - Box should be empty.
- 
-### Play area
-
-(TODO)
-
-Zones: 
- - tree top
- - middle tree
- - below tree (excluding box)
- - box
- - left from tree
- - right from tree
 
 
 ## How to participate
 
-1. Print area on A4 (TODO link)
+1. Print area: [A4 layout](layout-tree.pdf)
 2. Build arm with exactly 2 motors.
 3. Find or create 9 cubes: 3 red, 3 blue, 3 yellow. 
 4. Record short video with:
