@@ -2,9 +2,9 @@
 
 The goal of 2018 robotic arm contest is to bring robotics closer to people with little or no experience. If you are already skilled in that field, feel free to join and compete with others. 
 
-In this contest you will create simple robotic arm that will put decoartions to christmas/new year tree. 
+In this contest you will create simple robotic arm that will put decorations to christmas/new year tree. 
 
-Lego, vex, fischertechnik, wooden planks, cardboard, tape, your old VHS player and everything else could be used. You could programm it with arduino, or controll motors directly with poewr. 
+Lego, vex, fischertechnik, wooden planks, cardboard, tape, your old VHS player and everything else could be used. You could program it with arduino, or control motors directly with power. 
 
 Final round of competition will be held online 31st of December 2018. Participants will be required to stream online video with their creation.
 
@@ -21,7 +21,7 @@ Grand prize: 25 euro Amazon gift card
 
 1. Robotic arm should have exactly 2 motors. Servo, DC, piezo, pump and others are allowed. You could use any brand or shape, as long as its longest size is less than 1m.
 2. Base for robotic arm should fit to A4 paper (297mm x 210mm).
-3. Entries should be submited before 2018-12-27 23:00 UTC
+3. Entries should be submitted before 2018-12-27 23:00 UTC
 4. Scores will be awarded during qualification and live rounds.
 5. Allowed cube sizes: each side is 10-20mm. E.g. lego 2x2 brick is suitable (16x16x11 mm).
 
@@ -31,13 +31,13 @@ Scores are awarded for great work. Penalties will be applied for not respecting 
 
 #### During live round
 
-One live round could have maximum 9 participants.
+One live round could have most 9 participants.
 
 Places are grouped by 5 second intervals from fastest. 
 
 1st places: 90 points
 
-2nd palces: 80 points
+2nd places: 80 points
 
 .... (and so on)
 
@@ -117,7 +117,7 @@ Example of tasks:
   b) 3-5 direct links to pictures,
   c) short description.
 8. If < 100 submissions, then everyone will participate in live stream competition. If 100 or more submissions, best creations will be selected by judges. 
-9. 2018-12-31 participate in live rounds. During match participant will controll arm with preffered method to complete tasks in given order. Your date may vary based on your timezone.
+9. 2018-12-31 participate in live rounds. During match participant will control arm with preferred method to complete tasks in given order. Your date may vary based on your timezone.
 10. When final  match ended, and points are calculated, winner will be announced. 
 11. Rewards will be send/delivered within 72 hours after winners announced.
 
