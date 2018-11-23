@@ -1,12 +1,12 @@
-## 2018 Robotics arm contest
+## 2018 Robotics Arm Contest
 
-The goal of 2018 robotic arm contest is to bring robotics closer to people with little or no experience. If you are already skilled in that field, feel free to join and compete with others. 
+The goal of 2018 robotic arm contest is to make robotics accessible to people with little or no experience. If you are already skilled in that field, feel free to join and compete with others. 
 
-In this contest you will create simple robotic arm that will put decorations to christmas/new year tree. 
+In this contest, you will create simple robotic arm that will put decorations to Christmas/New Year's tree. 
 
-Lego, vex, fischertechnik, wooden planks, cardboard, tape, your old VHS player and everything else could be used. You could program it with arduino, or control motors directly with power. 
+Feel free to use Lego, vex, fischertechnik, wooden planks, cardboard, tape, your old VHS player and whatever else you have laying around. You could program servo motors with Arduino, or just turn simpler DC motors on and off. 
 
-Final round of competition will be held online 31st of December 2018. Participants will be required to stream online video with their creation.
+The final round of competition will be held online on December 31st, 2018. Participants will stream online video of their creations.
 
 
 ## Awards And Prizes
@@ -15,12 +15,12 @@ Grand prize: 25 euro Amazon gift card
 
 2-5 place: 5 euro Amazon gift card
 
-(special prizes will be added later)
+(additinal special prizes will be revealed later)
 
 ## Rules 
 
 1. Robotic arm should have exactly 2 motors. Servo, DC, piezo, pump and others are allowed. You could use any brand or shape, as long as its longest size is less than 1m.
-2. Base for robotic arm should fit to A4 paper (297mm x 210mm).
+2. The base for the robotic arm should be small enough to fint on A4 paper (297mm x 210mm).
 3. Entries should be submitted before 2018-12-27 23:00 UTC
 4. Scores will be awarded during qualification and live rounds.
 5. Allowed cube sizes: each side is 10-20mm. E.g. lego 2x2 brick is suitable (16x16x11 mm).
@@ -29,11 +29,11 @@ Grand prize: 25 euro Amazon gift card
 
 Scores are awarded for great work. Penalties will be applied for not respecting others time and effort.
 
-#### During live round
+#### Live rounds
 
 One live round could have most 9 participants.
 
-Places are grouped by 5 second intervals from fastest. 
+Places are grouped by 5 second intervals from fastest to slowest. 
 
 1st places: 90 points
 
@@ -45,7 +45,7 @@ Places are grouped by 5 second intervals from fastest.
 
 ##### During qualification
 
-First 10 valid submissions: +3 points.
+The first 10 valid submissions get a bonus of +3 points.
 
 Extra points will be awarded for log10(likes) rounded down. E.g. 100 likes will give 2 extra points, while 1.000.000 will give 6 extra points.
 
@@ -53,13 +53,13 @@ Extra points will be awarded for log10(likes) rounded down. E.g. 100 likes will 
 
 ### Penalties
 
-Stream video quality: -1 to -50 points.
+Poor streaming video quality: -1 to -50 points.
 
-Skipping task: -20 points.
+Skipping a task: -20 points.
 
 Partial placement mistakes: -1 to -3 points (e.g. cube 30% on the line).
 
-Being late for pre match validation get: -3 points.
+Being late for pre-match validation: -3 points.
 
 Invalid size for area or cubes: -1 to -20 points.
 
@@ -94,32 +94,32 @@ Zones:
 Participants will have to do certain tasks. Tasks will be selected randomly and published in the beginning of the match.
 
 Example of tasks:
- - All 3 blue to tree top.
+ - All 3 blue items to tree top.
  - Tree should have all colors.
- - All yellow fall down below tree.
- - Middle tree should have at exactly one of each color.
- - Left of the tree should have no more than 2 cubes.
- - Box should be empty.
+ - All yellow items should fall down below tree.
+ - The middle tree should have at exactly one item of each color.
+ - The left side of the tree should have no more than 2 cubes.
+ - The box should be empty.
 
 
 ## How to participate
 
 1. Print area: [A4 layout](layout-tree.pdf)
-2. Build arm with exactly 2 motors.
-3. Find or create 9 cubes: 3 red, 3 blue, 3 yellow. 
-4. Record short video with:
-  a) arm moving cubes,
-  b) video should be recorded with same camera, that will be used during live match.
-5. Make at least 3 pictures of arm from different sides.
-6. Publish video and pictures on any website. 
-7. Create pull request with your submission to this page. Alternatively, you could send email to (TODO email) and we will do that pull request for you.Email should include:
-  a) link to video,
-  b) 3-5 direct links to pictures,
-  c) short description.
-8. If < 100 submissions, then everyone will participate in live stream competition. If 100 or more submissions, best creations will be selected by judges. 
-9. 2018-12-31 participate in live rounds. During match participant will control arm with preferred method to complete tasks in given order. Your date may vary based on your timezone.
-10. When final  match ended, and points are calculated, winner will be announced. 
-11. Rewards will be send/delivered within 72 hours after winners announced.
+2. Build an arm with exactly 2 motors.
+3. Find or create 9 cubes of your preferred size: 3 red, 3 blue, 3 yellow. 
+4. Record a short video of:
+  a) the arm moving cubes,
+  b) the video should be recorded with same camera that will be used during live match.
+5. Send at least 3 pictures of the arm from different sides.
+6. Publish the video and pictures on any website. 
+7. Create a pull request with your submission to this page. Alternatively, you could send email to (TODO email) and we will do that pull request for you.Email should include:
+  a) a link to your video,
+  b) 3-5 direct links to the pictures,
+  c) a short description.
+8. If < 100 submissions, then everyone will participate in the live streamed competition. If there are 100 or more submissions, the best creations will be selected by judges. 
+9. The live rounds will be on 2018-12-31. During each match, participants control their arm with their preferred method to complete tasks in a given order. Your date may vary based on your timezone.
+10. When the final match ends and points are calculated, the winners will be announced. 
+11. Rewards will be sent within 72 hours after the winners announcement.
 
 ## Contacts
 
