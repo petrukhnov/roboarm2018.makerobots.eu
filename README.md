@@ -102,7 +102,7 @@ Zones:
  - right from tree
  
  
- ### Live match details
+### Live match details
 
 Participants will have to do certain tasks. Tasks will be selected randomly and published in the beginning of the match.
 
@@ -140,4 +140,4 @@ There will be page with current livestreams:
 
 ## Contacts
 
-Join us in discord: https://discord.gg/Ch2j84C
+Join us in discord: <https://discord.gg/Ch2j84C>
