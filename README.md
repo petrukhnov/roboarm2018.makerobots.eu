@@ -5,7 +5,7 @@ The goal of 2018 robotic arm contest is to make robotics accessible to people wi
 
 In this contest, you will create simple robotic arm that will put decorations to Christmas/New Year's tree. 
 
-Feel free to use Lego, vex, fischertechnik, wooden planks, cardboard, tape, your old VHS player and whatever else you have laying around. You could program servo motors with Arduino, or just turn simpler DC motors on and off. 
+Feel free to use lego, vex, fischertechnik, wooden planks, cardboard, tape, your old VHS player and whatever else you have laying around. You could program servo motors with Arduino, or just turn simpler DC motors on and off. 
 
 The final round of competition will be held online on December 31st, 2018. Participants will stream online video of their creations.
 
@@ -21,6 +21,12 @@ The final round of competition will be held online on December 31st, 2018. Parti
 ![/imgs/amazon-5.png](/imgs/amazon-5.png)
 
 (additional special prizes will be revealed later)
+
+
+## Submissions
+
+<a href="/submissions/example-submission/exampleSubmission"><img src="/submissions/example-submission/one.png" width="250" height="175" /></a> <a href="#submissions"><img src="imgs/placeholder.png" width="250" height="175" /></a> <a href="#submissions"><img src="imgs/placeholder.png" width="250" height="175" /></a>
+
 
 ## Rules 
 
