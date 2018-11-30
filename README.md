@@ -110,7 +110,7 @@ Zones:
  
 ### Live match details
 
-Participants will have to do certain tasks. Tasks will be selected randomly and published in the beginning of the match.
+Participants will have to do certain tasks. Tasks will be selected randomly and published in the beginning of the match. Scores will be based on task completition time. 
 
 Example of tasks:
  - All 3 blue items to tree top.
@@ -139,10 +139,11 @@ There will be page with current livestreams:
    * a link to your video,
    * 3-5 direct links to the pictures,
    * a short description.
-8. If < 100 submissions, then everyone will participate in the live streamed competition. If there are 100 or more submissions, the best creations will be selected by judges. 
-9. The live rounds will be on 2018-12-31. During each match, participants control their arm with their preferred method to complete tasks in a given order. Your date may vary based on your timezone.
-10. When the final match ends and points are calculated, the winners will be announced. 
-11. Rewards will be sent within 72 hours after the winners announcement.
+8. The live rounds will be on 2018-12-31. During each match, participants control their arm with their preferred method to complete tasks in a given order. Your date may vary based on your timezone.
+9. When the final match ends and points are calculated, the winners will be announced. 
+10. Rewards will be sent within 72 hours after the winners announcement.
+
+Example of the pull request: https://github.com/petrukhnov/roboarm2018.makerobots.eu/pull/2
 
 ## Contacts
 
