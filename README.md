@@ -31,7 +31,7 @@ TL;DR;
 2. Submit short video and few pictures of the your creation to the website
 3. Compete in live event during 31st of December 2018 (you will have to stream video)
 
-[Submision details](submisions.md)
+[Submision details](submissions.md)
 
 [Need help with building robot?](help.md)
 
