@@ -1,4 +1,6 @@
 
+![makerobots.eu](/logo.png)
+
 # 2018 Robotics Arm Contest
 
 <http://roboarm2018.makerobots.eu>
