@@ -1,5 +1,5 @@
 
-![makerobots.eu](/logo.png)
+![makerobots.eu](/imgs/logo.png)
 
 # 2018 Robotics Arm Contest
 
@@ -48,9 +48,13 @@ TL;DR;
 2. The base for the robotic arm should be small enough to fit on A4 paper (297mm x 210mm).
 3. Entries should be submitted before **2018-12-27 23:00 UTC**
 4. Points will be awarded during qualification and live rounds.
-5. Allowed cube sizes: each side is 10-20mm. E.g. lego 2x2 brick is suitable (16x16x11 mm).
+5. Arms should move small cubes. Allowed cube sizes: each side is 10-20mm. E.g. lego 2x2 brick is suitable (16x16x11 mm).
 
 [Full rules](rules.md)
+
+Setup example:
+
+![setup example](/imgs/setup-example.png)
 
 ## Deadlines and Important Dates
 
