@@ -13,9 +13,9 @@
 ## Places to create an submission (choose one)
 
 - Create pull request (see example at <https://github.com/petrukhnov/roboarm2018.makerobots.eu/pull/2/files> )
-- Publish project to <hackaday.io>
-- Publish guide to <instructables.com>
-- Publish project to <diy.org>
+- Publish project to <https://hackaday.io>
+- Publish guide to <https://instructables.com>
+- Publish project to <https://diy.org>
 - Publish elsewhere and send us a link
 - Send email with attached images to <roboarm2018@makerobots.eu>
 
