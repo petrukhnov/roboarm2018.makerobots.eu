@@ -39,9 +39,9 @@ TL;DR;
 
 # Submissions
 
-<a href="/submissions/sub1/sub1"><img src="/submissions/sub1/pic2.jpg" width="250" height="175" /></a> <a href="/submissions/example-submission/exampleSubmission"><img src="/submissions/example-submission/two.png" width="250" height="175" /></a> <a href="#submissions"><img src="imgs/placeholder.png" width="250" height="175" /></a>
-
-
+<a href="/submissions/sub3/sub3"><img src="/submissions/sub3/RA4.jfif" width="250" height="175" /></a>
+<a href="/submissions/sub2/sub2"><img src="/submissions/sub2/pic2.png" width="250" height="175" /></a>
+<a href="/submissions/sub1/sub1"><img src="/submissions/sub1/pic2.jpg" width="250" height="175" /></a>
 
 # Rules 
 
