@@ -1,6 +1,8 @@
 
 ![makerobots.eu](/imgs/logo.png)
 
+Live event: **2018-12-31 14:00 UTC**
+
 # 2018 Robotics Arm Contest
 
 <http://roboarm2018.makerobots.eu>
