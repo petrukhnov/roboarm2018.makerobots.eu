@@ -3,6 +3,8 @@
 
 Live event: **2018-12-31 14:00 UTC**
 
+[LIVE EVENT](live.md)
+
 # 2018 Robotics Arm Contest
 
 <http://roboarm2018.makerobots.eu>
