@@ -1,9 +1,16 @@
 
 ![makerobots.eu](/imgs/logo.png)
 
+# LiVE EVENT IS OVER
+
 Live event: **2018-12-31 14:00 UTC**
 
-[LIVE EVENT](live.md)
+Combined video from live event.
+
+<iframe width="640" height="480" src="http://www.youtube.com/embed/Z2Qrc3Hp4GY" frameborder="0" allowfullscreen></iframe>
+
+There is no clear winner and it was decided to award **10euro Amazon** cards to: **Aahaan, Naveen, Siddharth, Vlad**
+
 
 # 2018 Robotics Arm Contest
 
@@ -43,6 +50,7 @@ TL;DR;
 
 # Submissions
 
+<a href="/submissions/sub4/sub4"><img src="/submissions/sub4/img2.jpeg" width="250" height="175" /></a>
 <a href="/submissions/sub3/sub3"><img src="/submissions/sub3/RA4.jfif" width="250" height="175" /></a>
 <a href="/submissions/sub2/sub2"><img src="/submissions/sub2/pic2.png" width="250" height="175" /></a>
 <a href="/submissions/sub1/sub1"><img src="/submissions/sub1/pic2.jpg" width="250" height="175" /></a>
