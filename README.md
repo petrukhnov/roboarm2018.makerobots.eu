@@ -1,6 +1,10 @@
 
 ![makerobots.eu](/imgs/logo.png)
 
+# 2019 competition
+
+Robocar Online Live Robotics Competition 2019 http://robocar2019.makerobots.eu
+
 # LiVE EVENT IS OVER
 
 Live event: **2018-12-31 14:00 UTC**
