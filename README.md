@@ -3,7 +3,7 @@
 
 # 2019 competition
 
-Robocar Online Live Robotics Competition 2019 http://robocar2019.makerobots.eu
+Robocar Online Live Robotics Competition 2019 <http://robocar2019.makerobots.eu>
 
 # LiVE EVENT IS OVER
 
